@@ -1,0 +1,6 @@
+pytest
+ydata_profiling
+ipywidgets
+ipytest
+notebook
+great_expectations
